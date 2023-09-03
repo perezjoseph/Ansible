@@ -24,9 +24,14 @@ mkdir ansible && cd ansible
 vagrant init ubuntu/jammy64
 vagrant up
 ```
+Or pull this repository:
+
+```
+git clone....
+vagrant up
+```
 ssh to VM:
 
 ```shell
 vagrant ssh
 ```
-
